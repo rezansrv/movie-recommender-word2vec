@@ -1,7 +1,5 @@
 # Movie Recommender System with Word2Vec
 
-> Chapter 2 — Tokens and Embeddings | Build a Large Language Model From Scratch
-
 ---
 
 ## Overview
@@ -38,7 +36,7 @@ User 42 watched: [Inception, The Matrix, Interstellar, Memento, ...]
                        ↓
          Word2Vec treats this as a sentence
                        ↓
-  similar movies end up close in 64-dimensional space
+  similar movies end up close in 128-dimensional space
 ```
 
 ---
